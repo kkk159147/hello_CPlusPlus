@@ -15,4 +15,6 @@ int main()
 	else {
 		cout << "¾øÀ½" << endl;
 	}
+	
+	return 0;
 }
